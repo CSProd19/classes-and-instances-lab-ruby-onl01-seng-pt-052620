@@ -3,6 +3,10 @@ class Dog
     
     
   end 
-  
 end 
 
+class Dog 
+  def last_name 
+    
+  end 
+end 
