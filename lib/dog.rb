@@ -1,12 +1,7 @@
 class Dog 
-  def first_name 
+  def name 
     
     
   end 
 end 
 
-class Dog 
-  def last_name 
-    
-  end 
-end 
